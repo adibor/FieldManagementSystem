@@ -99,3 +99,17 @@ Swagger supports JWT authentication using the **Authorize** button.
 
 - Authentication was implemented without passwords for simplicity and can be extended in the future.
 - A role field exists for user-controller relationships but is reserved for future authorization use.
+
+
+---
+
+## Tests
+- Basic automated tests are implemented using xUnit.
+- Tests are located in a separate test project under the `tests` folder.
+- The test structure allows easy extension for additional scenarios.
+
+To run tests locally:
+```bash
+dotnet test
+
+

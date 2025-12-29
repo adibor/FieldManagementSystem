@@ -87,7 +87,7 @@ Includes an optional `Role` field reserved for future authorization extensions.
 ## Swagger
 Swagger UI is enabled in development mode.
 
-After running the application locally, navigate to:
+After running the application locally, open the Swagger UI at:
 https://localhost:<port>/swagger
 
 

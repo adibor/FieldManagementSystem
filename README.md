@@ -88,7 +88,7 @@ Includes an optional `Role` field reserved for future authorization extensions.
 Swagger UI is enabled in development mode.
 
 After running the application locally, open the Swagger UI at:
-https://localhost:<port>/swagger
+https://localhost:{port}/swagger
 
 
 Swagger supports JWT authentication using the **Authorize** button.

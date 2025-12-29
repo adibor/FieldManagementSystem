@@ -1,0 +1,6 @@
+@FieldManagementSystem_HostAddress = http://localhost:5118
+
+GET {{FieldManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
